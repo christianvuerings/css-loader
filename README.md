@@ -1,4 +1,7 @@
-# css loader for webpack
+# fast css loader for webpack
+
+This is a fork of the [0.14.5 version](https://github.com/webpack-contrib/css-loader/tree/v0.14.5) of `css-loader`.
+We have this fork because [0.15.0+ makes webpack slow](https://github.com/webpack-contrib/css-loader/issues/124)
 
 ## installation
 
